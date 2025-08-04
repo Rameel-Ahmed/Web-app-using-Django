@@ -40,8 +40,8 @@ project/
 ### 1. Clone the Repo
 
 ```bash
-git clone <your-repo-url>
-cd <project-directory>
+git clone https://github.com/Rameel-Ahmed/Web-app-using-Django.git
+cd Web-app-using-Django
 ```
 
 ### 2. Set Up Virtual Environment (Optional but Recommended)
